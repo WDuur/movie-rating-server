@@ -4,8 +4,6 @@ import { readFile } from 'fs/promises';
 import { resolvers } from './resolvers.js';
 
 const PORT = 9000;
-
-
 const app = express();
 
 const typeDefs = await readFile('./schema.graphql', 'utf-8');
