@@ -1,0 +1,79 @@
+[
+  {
+    "id": "743854",
+    "name": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UY1982_.jpg",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "inTheaters": false
+  },
+  {
+    "id": "754753",
+    "name": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1200_.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "inTheaters": false
+  },
+  {
+    "id": "54647",
+    "name": "The Dark Knight",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UY2048_.jpg",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "inTheaters": false
+  },
+  {
+    "id": "567653",
+    "name": "Indiana Jones",
+    "description": "Indiana Jones and the Temple of Doom brings you non-stop thrills and excitement like nothing you’ve ever experienced.",
+    "image": "https://m.media-amazon.com/images/I/51MAG8k8WAL.jpg",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "inTheaters": false
+  },
+  {
+    "id": "435364",
+    "name": "Battlestar Galactica",
+    "description": "In the deepest reaches of space, the fight to save all human life from extinction begins in this science fiction adventure movie that launched the Battlestar Galactica phenomenon!",
+    "image": "https://m.media-amazon.com/images/I/717nPzgaZzL._AC_UY218_.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "SyFy"
+    ],
+    "inTheaters": false
+  },
+  {
+    "id": "314362",
+    "name": "Ghostbusters: Afterlife",
+    "description": "From director Jason Reitman and producer Ivan Reitman, comes the next chapter in the original Ghostbusters universe. ",
+    "image": "https://m.media-amazon.com/images/I/91RNwlnVEcL._AC_UL600_FMwebp_QL65_.jpg",
+    "inTheaters": false,
+    "genres": [
+      "SyFy"
+    ]
+  },
+  {
+    "id": "9131",
+    "name": "The Meg",
+    "description": "With time running out, rescue diver Jonas Taylor (Jason Statham) must save the crew of a deep-sea submersible from a colossal 75-foot-long prehistoric shark known as the Megalodon.",
+    "image": "https://m.media-amazon.com/images/I/91TeM6FDm0L._AC_UL600_FMwebp_QL65_.jpg",
+    "inTheaters": false,
+    "genres": [
+      "Action",
+      "Comedy"
+    ]
+  }
+]

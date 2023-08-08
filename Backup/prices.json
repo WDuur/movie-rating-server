@@ -1,0 +1,42 @@
+[
+  {
+    "id": "743854",
+    "buyPrice": 9.99,
+    "rentPrice": 2.99
+  },
+  {
+    "id": "754753",
+    "buyPrice": 12.91,
+    "rentPrice": 3.49
+  },
+  {
+    "id": "54647",
+    "buyPrice": 8.99,
+    "rentPrice": 2.49
+  },
+  {
+    "id": "567653",
+    "buyPrice": 11.99,
+    "rentPrice": 3.99
+  },
+  {
+    "id": "435364",
+    "buyPrice": 14.99,
+    "rentPrice": 4.49
+  },
+  {
+    "id": "314362",
+    "buyPrice": 10.99,
+    "rentPrice": 3.29
+  },
+  {
+    "id": "9131",
+    "buyPrice": 10.99,
+    "rentPrice": 3.29
+  },
+  {
+    "id": "137158",
+    "buyPrice": 6.99,
+    "rentPrice": 1.99
+  }
+]

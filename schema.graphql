@@ -1,0 +1,53 @@
+type Query {
+  prices: [Price]
+  movies: [Movie]
+  rating: [Rating]
+}
+
+type Mutation {
+  updateRating(payload: updateMovieRating!): Movie
+  addMovie(payload: addNewMovie): Movie
+  deleteMovie(id: ID!): Movie
+}
+
+type Movie {
+  id: ID!
+  name: String
+  description: String
+  image: String
+  rating: Rating
+  inTheaters: Boolean
+  genres: [String]
+  price: Price
+}
+
+
+type Price {
+  id: ID!
+  buyPrice: Float
+  rentPrice: Float
+}
+
+type Rating {
+  id: ID!
+  stars: Int
+}
+
+input updateMovieRating {
+  id: ID!
+  stars: Int
+}
+
+input addNewMovie {
+  id: ID!
+  name: String
+  description: String
+  image: String
+  inTheaters: Boolean
+  genres: [String]
+}
+
+
+
+
+
