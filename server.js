@@ -3,6 +3,7 @@ import express from 'express';
 import { readFile } from 'fs/promises';
 import { resolvers } from './resolvers.js';
 
+// server setup
 const PORT = 9000;
 const app = express();
 
